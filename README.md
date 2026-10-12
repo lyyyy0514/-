@@ -1,9 +1,6 @@
 # 数据挖掘课程作业（Homework Repo）
 
 > 本仓库用于存放《数据挖掘》课程的课后作业，涵盖线性模型、分类模型、CNN 图像任务等三次作业的完整代码、训练结果与可视化输出。
-
-- **作者**：林勇
-- **学号**：2023215371
 - **主要技术栈**：Python、NumPy、PyTorch、scikit-learn、Matplotlib、Seaborn、TensorBoard、BayesianOptimization
 
 ---
@@ -135,5 +132,4 @@ python cnn_task2.py
 ## 注意事项
 
 - 本仓库为课程作业存档，供学习与复现参考；
-- 涉及的个人信息（姓名、学号）用于作业提交标识；
 - 部分代码存在路径硬编码，跨环境运行需自行调整。
